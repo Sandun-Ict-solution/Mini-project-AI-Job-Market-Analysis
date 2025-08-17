@@ -1,14 +1,11 @@
 # 🤖 AI Job Market Analysis Dashboard
 
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+<img width="1862" height="922" alt="image" src="https://github.com/user-attachments/assets/4e9f81e8-c6a1-46b7-8ab5-6e9b09513d8e" />
+
 
 > **An interactive data analytics platform for exploring global AI job market trends and salary predictions**
+<img width="1858" height="917" alt="image" src="https://github.com/user-attachments/assets/b5d495d3-fa16-47f7-9525-13087851f2d0" />
 
-![Dashboard Preview](https://via.placeholder.com/800x400/1f77b4/ffffff?text=AI+Job+Market+Dashboard)
 
 ## 📋 Table of Contents
 
@@ -70,22 +67,8 @@ The **AI Job Market Analysis Dashboard** is a comprehensive data science project
 ## 🎬 Demo
 
 ### Live Dashboard
-🌐 **[View Live Demo](your-streamlit-app-url.com)** *(Replace with actual URL)*
+🌐 **[View Live Demo](https://mini-project-ai-job-market-analysis-pbdpnptth285jb5yyajxdx.streamlit.app/)** 
 
-### Screenshots
-
-<details>
-<summary>📊 Dashboard Screenshots</summary>
-
-| Home Overview | Data Exploration | ML Models |
-|---------------|-----------------|-----------|
-| ![Home](https://via.placeholder.com/250x150/1f77b4/ffffff?text=Home) | ![Exploration](https://via.placeholder.com/250x150/ff7f0e/ffffff?text=Data+Explorer) | ![ML](https://via.placeholder.com/250x150/2ca02c/ffffff?text=ML+Models) |
-
-| Salary Predictor | About | Data Upload |
-|-----------------|-------|-------------|
-| ![Predictor](https://via.placeholder.com/250x150/d62728/ffffff?text=Predictor) | ![About](https://via.placeholder.com/250x150/9467bd/ffffff?text=About) | ![Upload](https://via.placeholder.com/250x150/8c564b/ffffff?text=Upload) |
-
-</details>
 
 ## 🔧 Installation
 
@@ -96,7 +79,7 @@ The **AI Job Market Analysis Dashboard** is a comprehensive data science project
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/ai-job-market-dashboard.git
+git clone https://github.com/Sandun-Ict-solution/Mini-project-AI-Job-Market-Analysis.git
 cd ai-job-market-dashboard
 ```
 
@@ -253,39 +236,7 @@ This project was developed as part of **IT41033 - Data Science and Analytics Min
 | **Madhuwantha** | ITBIN-2211-0228 | 🎨 Frontend & Visualization | Streamlit interface, Plotly charts, UI/UX design |
 | **Dinisuru** | ITBIN-2211-0195 | 🔧 Data Engineering & Testing | Data pipeline, testing, deployment, documentation |
 
-### Course Information
-- **Course**: IT41033 - Data Science and Analytics
-- **Institution**: [Your Institution Name]
-- **Academic Year**: 2025
-- **Project Duration**: [Start Date] - [End Date]
 
-## 🤝 Contributing
-
-We welcome contributions to improve the dashboard! Here's how you can help:
-
-### For Students & Researchers
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-### Contribution Areas
-- 📊 **New visualizations** or chart types
-- 🤖 **Additional ML models** or algorithms  
-- 🎨 **UI/UX improvements** and styling
-- 📚 **Documentation** and tutorials
-- 🐛 **Bug fixes** and performance optimization
-- 📈 **New features** and functionality
-
-### Development Setup
-1. Clone the repository
-2. Create virtual environment: `python -m venv dev_env`
-3. Activate environment: `source dev_env/bin/activate` (Linux/Mac) or `dev_env\Scripts\activate` (Windows)
-4. Install dependencies: `pip install -r requirements.txt`
-5. Install development dependencies: `pip install pytest black flake8`
-6. Make your changes and test
-7. Submit pull request
 
 ## 📞 Support & Help
 
@@ -293,7 +244,7 @@ We welcome contributions to improve the dashboard! Here's how you can help:
 - **📖 Documentation**: Check the built-in About section
 - **🐛 Issues**: Report bugs via GitHub Issues
 - **💡 Questions**: Use GitHub Discussions
-- **📧 Contact**: [team-email@institution.edu]
+- **📧 Contact**: [ssandu809@gmail.com]
 
 ### 🔧 Troubleshooting
 
@@ -390,24 +341,8 @@ copies or substantial portions of the Software.
 - **🤖 Scikit-learn Contributors**: For comprehensive ML tools
 - **💡 Open Source Community**: For inspiration and code examples
 
-## 📊 Statistics
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/ai-job-market-dashboard)
-![GitHub language count](https://img.shields.io/github/languages/count/yourusername/ai-job-market-dashboard)
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/ai-job-market-dashboard)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ai-job-market-dashboard)
 
----
 
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-job-market-dashboard?style=social)](https://github.com/yourusername/ai-job-market-dashboard)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ai-job-market-dashboard?style=social)](https://github.com/yourusername/ai-job-market-dashboard/fork)
-
-**Built with ❤️ by the AI Job Market Dashboard Team**
-
-[🔝 Back to top](#-ai-job-market-analysis-dashboard)
 
 </div>
